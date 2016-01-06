@@ -5,8 +5,9 @@ __pycache__/
 # C extensions
 *.so
 
-# JSON SECRET API KEYS
+# SECRET API KEYS
 client_secret.json
+google_maps_api_key.py
 
 # Distribution / packaging
 .Python
